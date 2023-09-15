@@ -19,3 +19,25 @@
 **AISV_801_lab8_Wen** - Fine tune an LLM on a custom using dataset Helper scripts and QLoRa.
 
 **AISV_801_fnlPrjct_Wen** - Nature Language Processing of medical chatbots in healthcare.  This project takes a medical LLM and train it with new medical data to refine a healthcare chatbot.
+
+## Roadmap
+
+Please email me for features and additions you would like to see.  
+
+or
+
+## Get Involved
+
+* Submit a proposed code update through a pull request to the `devel` branch.
+* Talk to us before making larger changes
+  to avoid duplicate efforts. This not only helps everyone
+  know what is going on, but it also helps save time and effort if we decide
+  some changes are needed.
+
+## Author
+
+Terraform-with-ansible was created by [Bobby Wen] (https://github.com/bobby1)
+
+## License
+
+https://github.com/bobby1/terraform-with-ansible/blob/main/LICENSE
